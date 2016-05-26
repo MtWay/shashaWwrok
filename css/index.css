@@ -1,0 +1,46 @@
+#bannerf{width: 100%;height: 420px;background: #ccc;overflow: hidden;}
+#banner{width: 1920px;height: 420px;margin: 0 auto; position: relative;}
+#banner img{ position: absolute;left: -200px;}
+#FIRST{z-index: 1;}
+#banner #soll{min-width:300px;height: 4px;background:#fff; position:absolute;bottom:20px;margin-left: 40%;z-index: 1;}
+#banner #soll li{float: left;width: 60px;height: 4px;background:#fff;}
+#banner #soll .lon{background: #C69A62;}
+#must{width: 1110px;height: 40px;margin: 20px auto;}
+#mustc{width: 350px;height: 40px;background: url(../img/home-bt.png) no-repeat 25px 5px;float: left;}
+#mustl,#mustr{width: 375px;vertical-align: middle;height: 4px;float: left;background: #ec3e7d;margin-top: 18px;}
+#buy{width: 1120px;margin: 0 auto;}
+#buy a img{display: block;float: left;border: 1px solid #bfc1c2;}
+#contantsB{width: 100%;background: #f2f2f2;}
+#offer,#hot{width: 1100px;margin: 20px auto;line-height: 40px;padding: 20px 0;border-bottom: 4px solid #EC3E7D;}
+#offer a,#hot a{float: right;color: #000000;font-size: 14px;}
+#offer a:hover,#hot a:hover{color: #EC3E7D;}
+#offer div{width: 400px;height: 40px;background: url(../img/home-bt.png) no-repeat 20px -65px;}
+#hot div{width: 400px;height: 40px;background: url(../img/home-bt.png) no-repeat 20px -135px;}
+.mainf
+{width: 1100px;margin: 0 auto;}
+.main{width: 345px;height: 573px;overflow: hidden;float: left;background: #fff; margin: 10px;cursor: pointer;}
+.main .img-tag-bl{height: 345px;width: 345px;overflow: hidden;position: relative;}
+.main .img-tag-bl .ccc{height: 390px;width: 390px;background: #999;opacity: .8;position: absolute; left: 0px;top: 0px;display: none;}
+
+.main .img-tag-bl .discount{width: 110px;height: 110px;background: url(../img/tips.png) no-repeat left -490px; line-height: 110px;font-size:35px;font-style: italic;color: #fff; position: absolute; right: 10px;bottom: 10px;}
+.main .img-tag-bl .saleq{height: 200px;width: 200px;background: url(../img/tips.png) no-repeat -20px -20px;position: absolute;left: 70px;top: 70px;opacity: 1;}
+.main .sale{padding: 10px; line-height: 30px;}
+.main .sale .s1{font-size: 20px;color: #ec3e7d; margin-right: 10px;}
+.main .sale .s2{font-size: 14px;color: #858587;}
+.main .sale .s3{font-size: 14px;color: #858587;float: right; margin-right: 20px;}
+.main .sale .p1{font-size: 18px;font-weight: 600;color: #3e3e3e;}
+.main .sale .p1 .ss{color: #c69a62;font-size: 22px;font-family: arial;}
+.main .sale .p2{font-size: 14px;color: #808082;font-weight:600;}
+.main .sale .title{font-size: 12px; color:#808082 ;}
+.main .sale .norm{font-size:14px;color: #808080;line-height: 35px;}
+#mainHot{width: 1100px;margin: 0 auto;}
+#mainHot ul{width: 100%; border-bottom: 2px solid #d4d5d7; height: 35px;margin: 0 auto;position: relative;}
+#mainHot ul li{list-style: none;float: left; width: 100px; text-align: center;}
+#mainHot ul li:hover{color: #EC3E7D; cursor: pointer;}
+#mainHot #em{height: 2px;width: 100px;background: #c69a62; position:absolute;top:35px;}
+.list{width: 1100px;margin: 20px auto;height: 550px;display: none;}
+.firstList{display: block;}
+.listMain{width: 253px;height: 150px;float: left;margin: 10px;overflow: hidden;}
+.listMain div{position: relative; cursor: pointer;}
+.listMain img{display: block;width: 253px;height: 150px;}
+
